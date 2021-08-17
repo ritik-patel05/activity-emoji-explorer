@@ -51,6 +51,7 @@ function App() {
 							listStyle: 'none',
 							display: 'inline-block',
 							padding: '1rem',
+							cursor: 'pointer',
 						}}>
 						{emoji}
 					</li>
