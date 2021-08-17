@@ -1,0 +1,28 @@
+const emojiToNameMapping = {
+	'🕴️': 'Person in Suit Levitating',
+	'🧗': 'Person Climbing',
+	'🧗‍♂️': 'Man Climbing',
+	'🧗‍♀️': 'Woman Climbing',
+	'🤺': 'Person Fencing',
+	'🏇': 'Horse Racing',
+	'⛷️': 'Skier',
+	'🏂': 'Snowboarder',
+	'🏌️': 'Person Golfing',
+	'🏌️‍♂️': 'Man Golfing',
+	'🏌️‍♀️': 'Woman Golfing',
+	'🏄': 'Person Surfing',
+	'🏄‍♂️': 'Man Surfing',
+	'🏄‍♀️': 'Woman Surfing',
+	'🚣': 'Person Rowing Boat',
+	'🚣‍♂️': 'Man Rowing Boat',
+	'🚣‍♀️': 'Woman Rowing Boat',
+	'🏊': 'Person Swimming',
+	'🏊‍♂️': 'Man Swimming',
+	'🏊‍♀️': 'Woman Swimming',
+	'⛹️': 'Person Bouncing Ball',
+	'⛹️‍♂️': 'Man Bouncing Ball',
+	'⛹️‍♀️': 'Woman Bouncing Ball',
+	'🏋️': 'Person Lifting Weights',
+};
+
+export default emojiToNameMapping;
