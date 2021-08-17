@@ -37,7 +37,8 @@ function App() {
 			/>
 
 			<div>
-				<span>Emoji's Name</span> : {getEmojiName()}
+				<span className='emoji-heading'>Emoji's Name</span> :{' '}
+				<span className='emoji-content'>{getEmojiName()}</span>
 			</div>
 
 			<h1>Emoji's Supported</h1>

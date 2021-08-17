@@ -14,15 +14,23 @@ input {
 	margin: 0 auto;
 	width: 90%;
 	text-align: center;
+	height: 2rem;
+	padding: 0.5rem;
+	border-radius: 0.5rem;
 }
 
 div {
 	margin: 1rem;
 }
 
-div span {
+.emoji-heading {
 	display: inline-block;
 	background-color: lightblue;
 	font-weight: 700;
 	padding: 0.5rem;
+}
+
+.emoji-content {
+	font-style: oblique;
+	font-weight: 600;
 }
